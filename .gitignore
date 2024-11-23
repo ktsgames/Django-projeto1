@@ -1,0 +1,59 @@
+# Diretórios do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações do ambiente virtual
+env/
+venv/
+ENV/
+VENV/
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+
+# Arquivos de log e banco de dados local
+*.log
+*.sqlite3
+db.sqlite3
+
+# Configurações do Django
+local_settings.py
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache e outras saídas
+*.bak
+*.swp
+*.swo
+*.tmp
+*.idea/
+.vscode/
+*.egg-info/
+.eggs/
+build/
+dist/
+*.manifest
+
+# Arquivos criados por ferramentas de teste
+.tox/
+.coverage
+*.coverage
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Staticfiles coletados
+staticfiles/
+static/
+
+# Mídia carregada
+media/
+
+# Outros
+*.log.*
