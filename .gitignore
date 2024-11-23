@@ -1,4 +1,5 @@
-# Diretórios do Python
+
+# Diretórios do Pytho
 __pycache__/
 *.py[cod]
 *$py.class
